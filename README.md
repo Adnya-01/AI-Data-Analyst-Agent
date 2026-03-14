@@ -59,3 +59,4 @@ This project is intended to demonstrate:
 - How workflow automation can connect AI models with real databases
 
 The project shows how AI can simplify data analysis and make insights accessible to users without technical expertise.
+<img src="C:\Users\Adnya\Pictures\Screenshots\Screenshot 2026-03-12 230019.png" alt="My Image" width="300" height="200">
